@@ -51,3 +51,9 @@ DAX Measures
 Data Modeling
 
 Dashboard UI/UX Design
+
+
+<img width="1376" height="771" alt="Screenshot 2025-11-17 134046" src="https://github.com/user-attachments/assets/e548516a-5ada-4a18-bbfe-f7ebcd606c67" />
+
+
+
